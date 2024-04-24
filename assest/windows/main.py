@@ -1,2 +1,3 @@
 import main
-main.XYZ() 
+
+main.start_main()
